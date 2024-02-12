@@ -1,0 +1,1 @@
+Sitemap: https://pierrebrasseur.github.io/gmp/sitemap.xml
