@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: b3698e33-34e1-4f07-ab4e-33d9545f1bf4
+      url: 'https://brasseurph.quarto.pub/mgi'

@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+
+  title: "Mobilisations, genre et travail"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - href: index.qmd
+      - href : about.qmd
+      - href : seance1.qmd
+      - href : seance2.qmd
+      - href : seance3.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

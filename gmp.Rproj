@@ -1,0 +1,20 @@
+Version: 1.0
+
+RestoreWorkspace: Yes
+SaveWorkspace: Yes
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: knitr
+LaTeX: pdfLaTeX
+
+BuildType: Website
+WebsitePath: /Users/brasseur/Library/CloudStorage/OneDrive-UniversitéLibredeBruxelles/Bureau/gmp/_site
+
+ZoteroLibraries: "Ma librairie","My Library"
+
+SpellingDictionary: fr_FR
